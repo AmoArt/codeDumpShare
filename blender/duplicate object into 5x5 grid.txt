@@ -1,0 +1,51 @@
+import bpy
+
+# Check if an object is selected
+if bpy.context.object is None:
+    print("Please select an object.")
+else:
+    # Get the selected object
+    selected_obj = bpy.context.object
+
+    # Create a list to store the duplicated objects
+    duplicated_objs = []
+
+    # Duplicate the object and place copies around it
+    for i in range(25):
+        if i == 12:  # Skip the duplicate in the center position
+            continue
+
+        # Duplicate the selected object
+        bpy.ops.object.duplicate(linked=False)
+
+        # Get the duplicated object
+        duplicated_obj = bpy.context.object
+
+        # Add the duplicated object to the list
+        duplicated_objs.append(duplicated_obj)
+
+        # Calculate the position in the grid
+        x = (i % 5) - 2
+        y = (i // 5) - 2
+
+        # Move the duplicated object away from the original
+        duplicated_obj.location.x = selected_obj.location.x + 2.0 * x
+        duplicated_obj.location.y = selected_obj.location.y + 2.0 * y
+        duplicated_obj.location.z = selected_obj.location.z
+
+    # Select all duplicated objects
+    bpy.ops.object.select_all(action='DESELECT')
+    for obj in duplicated_objs:
+        obj.select_set(True)
+
+    # Set the original object as the active object
+    bpy.context.view_layer.objects.active = selected_obj
+
+    # Join all objects into a single object
+    bpy.ops.object.join()
+
+    # Clear the selection
+    bpy.ops.object.select_all(action='DESELECT')
+
+    # Select the joined object
+    selected_obj.select_set(True)
