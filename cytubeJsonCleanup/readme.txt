@@ -16,3 +16,6 @@ Example of what the text in datset will look like:
 
 
 To operate the scripts, place the zip json files in the 'json_raw_zip' folder, than fun the nummered python code.
+
+source of json files:
+https://mare.pages.dev
