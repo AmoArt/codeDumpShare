@@ -1,1 +1,4 @@
+TIME  -  FILENAME  -  DESCRIPTION
 
+
+11/11/2023  -  getCurrentDateButton.py  - Python code gui button that copies current time to the clip board, requires the isntalation of "pip install pyperclip" to work.
