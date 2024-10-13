@@ -1,0 +1,1188 @@
+﻿Hi,
+ 
+Here is a quick follow up on those entries from the previous email:
+ 
+EGHU9763109
+EITU1092978
+TCKU1177497
+EITU9398244
+EITU1906987
+ 
+Thanks!
+ 
+Kind Regards,
+Amadeusz
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Audio Pitch Correction (eg. autotune, melodyne, etc)
+ 
+https://gist.github.com/0xdevalias/7f4a5c31758e04aea5c2f5520e53accb
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_sc_00001 (cube corner, early morning / morning ,  day 31)
+ 
+[m] (outside view into the inside)
+ 
+[m] Sugarcube Corner.
+ 
+[m] It was still early morning, and the pastry shop was having the normal business rush that such places enjoyed as ponies tried to use sugar and caffeine to prepare for their day.
+[m] Blueblood quickly undid his tie and loosened his collar.
+ 
+[m] Hushed whispers preceded his entering the store.
+ 
+[msc] "Welcome to Sugarcube Corner,"
+[msc] “Prince... B –"
+ 
+[bb] "Sorry to skip ahead, but I need to borrow Miss Pinkamena for a minute or two."
+[bb] "When you can, I'll also have a cupcake with almonds... and add a whole strawberry on top, cut lengthways, not whole, if you would?"
+ 
+[m] Not that it was easy to see all the sweets in such a store, and not be reminded of that disgraceful binge he had gone through... how many loops ago? Two hundred maybe? Auntie Luna had been right. So very right.
+ 
+[pp] "Hi!"
+ 
+[m] Halfway into sitting at one of the indoor tables, Blueblood nearly jumped out of his skin.
+ 
+[m] Impossibly, some pony was actually staring at him, upside down.
+[m] second later she was seated opposite him, her hooves placed innocently on the table.
+ 
+[bb] "You must be Miss Pinkamena,"
+[m] he stated, and held out his hoof.
+[bb] "The Element of Laughter."
+ 
+[m] She giggled and shook his hoof with both of her own.
+[pp]  "Wow-wee! You know about that? You must be a pretty smart pony! But I guess you are from Canterlot, just like Twilight, and Twilight's the smartest pony I know! Everypony is saying you're a Prince, but you don't have any wings, just a horn, so how can you be a Prince? Oh! Or is it just a name, like the Fresh Prince, or the Artist formerly known as Prince? Are you an artist?"
+ 
+[bb] "Actually –"
+ 
+[pp] "But then again, if you were a Prince, then I guess it makes sense that you'd know ALL about the Elements of Harmony! Because you're like the Princess's brother, or maybe her nephew, or her illegit –"
+ 
+[bb] "Don't,"
+[bb] "I'm her nephew. I don't have wings because I'm just a unicorn. How did you know I was from Canterlot?"
+ 
+[m] Pinkie tilted her head in bubbly confusion.
+[pp] "Where else would a Prince be from, silly?"
+ 
+[bb] "...I suppose."
+ 
+[pp] "So what'd you want to see me for?"
+[pp] "Oh! One second!"
+[m] She literally bounced away, out of sight, and then came back from the other side, this time balancing a platter on the tip of her nose. On it were two cupcakes of the sort he had just ordered.
+ 
+[bb] "I only ordered one..." he began to protest.
+ 
+[pp] "Everyone gets one free the first time they visit!"
+[m] Pinkie assured him, putting the plate down on the table.
+[pp] "Okie dokie! Ready to listen now!"
+ 
+[bb] "Yes. To the point,"
+[bb]  "I'm here because of the Gala."
+ 
+[pp] "OooOOooh."
+[w] Pinkie's blue eyes began super wide and she smiled.
+[pp] "Are you asking me to the Gala?"
+ 
+[bb] "I – eh – what?" He coughed.
+[bb] "What? You didn't ask that last time!"
+ 
+[pp] "I didn't? Heeeey!" She peered at him closely.
+[pp] "What do you mean 'last time?'"
+ 
+[m] Blueblood growled in frustration. This wasn't working right at all.
+ 
+[bb] "I'm repeating the same day over and over," he growled.
+[bb] "The last time I talked to you, you said something different."
+ 
+[m] Pinkie Pie crossed her front legs and nodded.
+[pp] "That sounds like me, alright!"
+ 
+[m] He just facehoofed.
+ 
+_sc_00001 (cube corner, early morning / morning ,  day 32)
+ 
+[pp] "So what'd you want to see me for?"
+[pp] "Oh! One second!"
+[m[ She literally bounced away, out of sight, and then came back from the other side, this time balancing a platter on the tip of her nose. On it were two cupcakes of the sort he had just ordered.
+ 
+[bb] "I only ordered one."
+ 
+[pp] "Everyone gets one free the first time they visit!"
+[m] , putting the plate down on the table.
+[pp] "Okie dokie! Ready to listen now!"
+ 
+[bb] "Yes. To the point,"
+[bb] "I'm here because of the Gala."
+ 
+[pp] " OooOOooh."
+[m] Pinkie's blue eyes began super wide and she smiled.
+[pp] "Is there something wrong with the Gala?"
+ 
+[bb] "Again with this..."
+[bb] "Yes, as a matter of fact there is."
+ 
+[pp] "It's a balloon shortage, isn't it?"
+[m] Pinkie slammed a hoof on the table, leaning forward to whisper.
+[pp] "Of all the times to suffer from a rubber embargo!"
+ 
+[bb] "Ah. No."
+[m] He carefully pushed her back into her seat.
+[bb] "Let me explain."
+ 
+[m] Pinkie cocked her head again, listening.
+ 
+[bb] "I've heard from... Twilight... that you're Ponyville's most well known and well respected party planner."
+[bb] , "This is correct, isn't it?"
+ 
+[pp] "Yep!" Pinkie enthusiastically replied.
+[pp] "That's me! Ponyville's number one party pony!"
+ 
+[bb] "You must be very excited about going to the Gala then?"
+ 
+[pp] "I'm super duper excited! After I finished work, I was going to bounce on my new trampoline to work off some of my bouncy-energy! Have you ever had that feeling when you just need to go way up and then way down and then way up and then way down again? Because I get that ALL THE TIME. The trampoline helps, but sometimes it makes it even worse. Bouncing higher and higher and higher usually works, though! Did you know I've heard that there are entire castles designed for bouncing? Bouncy Castles they're called! Hey! Do you have any of those in Canterlot? Can you get one for the Gala!?"
+ 
+[bb] "I'll take all that to mean: yes, I am excited about going to the Gala."
+ 
+[pp] "Pretty excited," Pinkie clarified.
+ 
+[m] He nodded. That much was obvious.
+[bb] "I take it you haven't been to a Gala before, Miss Pinkamena?"
+ 
+[pp] "Ummm. Nope!"
+[m] She shook her head and her curly mane bounced while her body couldn't.
+[pp]"And you can call me Pinkie Pie!"
+ 
+[bb] "Let me be frank with you..."
+ 
+[pp] "Frank? I thought your name was Blueblood?"
+ 
+[bb] "I trotted right into that one. Again. Let me be candid then."
+ 
+[m] Pinkie stared at him evenly.
+[pp]"...Candid isn't a name!"
+ 
+[m] He coughed, cleared his thoughts and continued:
+[bb] "A Gala is a very specific sort of party. A very formal party."
+ 
+[bb] This – the mention of parties – got Pinkie's attention and held it.
+ 
+[pp] "Go on," she prompted.
+ 
+[bb] "Have you been to any weddings before?"
+[m] asked, taking a moment to bite into the cupcake
+ 
+[pp] "Sure I have!"
+[m] Pinkie held out her hoof and started counting on non-existent digits.
+[pp] "I went to my sister Inky's wedding, and Ditzy Doo's, and Carrot Top's!"
+ 
+[bb] "And what was your sister's wedding like?"
+ 
+[m] Pinkie thought back to that day, her lower lip sticking out in an exaggerated and adorable pout.
+ 
+[pp] "Well... Daddy had all the family get together and we waited by this pretty blue river. And I had to be quiet and wear a boring old dress because I was a maid or something. And then Inky and Tanny said their vows."
+[m] Pinkie smiled as she breezed past what was the boring part in her recollection.
+[pp] "And then they had a big kiss and they were married! And then we all went to this big tent and ate and danced and had tons of fun!"
+ 
+[bb] "Did your father ever dance with your sister?"
+[m] he asked, leadingly.
+[bb] "Before giving her to her new husband?"
+ 
+[pp] "Yep!"
+[m] Pinkie confirmed, nodding so vigorously her mane bounced.
+ 
+[bb] "What kind of dance was it? Do you remember the music?"
+ 
+[m] Pinkie nodded again.
+[pp] "I remember alright! It was... um... a slow kinda music. All the married ponies were out dancing. And... I guess some who weren't married yet, too."
+[m] She held up her hooves, and mimicked putting them on his shoulders.
+[pp] "They stood up and leaned on each other, and slowly moved around in circles."
+ 
+[bb] "That,"
+[m] he stressed, lowering her hooves down to the table again,
+[bb] "is the kind of music that is played at the Gala. It is also the kind of dancing at the Gala."
+ 
+[m] Pinkie seemed to need a few seconds to process that news.
+ 
+[pp] "But," she protested,
+[pp] "but that's so boring..."
+ 
+[bb] "Don't worry," he quickly assured her.
+[bb] "There is a more lively formalized dance, called the Marché."
+ 
+[pp] "Mar-chae?" The pink pony didn't sound convinced.
+ 
+[bb] "Marché," he repeated.
+[bb]  "Coincidentally, I happen to have brought a book on it, with some of the simpler moves highlighted, and I can show you how to start. You'll be enjoying the Gala – properly – in no time. Doesn't that sound fun?"
+ 
+[m] Pinkie Pie wasn't quite frowning, but she was looking somewhat distraught. Her puffy mane even began to droop a little.
+[m] The gears turned and a serious look crossed her face as she thought back to her sister's wedding, replaying that one part in particular over and over
+ 
+[bb] "Every party is a little different, after all,"
+[bb] "How do you know you won't enjoy it if you don't give it a try?"
+ 
+[pp] That seemed to do the trick.
+ 
+[pp] "You're right," Pinkie said, to him and to herself.
+[pp] "You're right! If the Gala was the same as any old party, then it wouldn't be so special, now would it? I'll definitely learn how to dance and how to party, Gala-style!"
+ 
+[bb] "Thank Celestia!" Blueblood breathed a sigh of relief... and then patted her hoof again.
+[bb] "I mean, thank goodness. I didn't... bring that book... for nothing?"
+ 
+[m] She met his shifty eyes with her own. For a moment or two, he even got the impression that she sensed something was amiss.
+[m] Blueblood put on his most charming and suave grin to disarm her suspicion. It usually worked wonders on mares, but with this one, the odds were about fifty-fifty. One of her ears twitched.
+ 
+[pp] "Okie dokie lokie."
+[m] Then, abruptly, she was all smiles and bubbles and balloons again.
+[pp]"And I can teach you how to do the pony polka!"
+ 
+[pp]"...Ah. Wonderful..."
+ 
+ 
+_sc_00002 ( ponk room, morning ,  day 33)
+ 
+ 
+[m]  By the third iteration, however, he had learned just how to most efficiently make progress on that front.
+ 
+[m] He brought a record of a typical Marché dance piece, Dance of Sagittarius in D minor, and had her practice.
+ 
+[m] Pinkamena picked up Marché quite readily, once she had spent an hour or so listening to the music, understanding the thematic beats that determined the required steps, and after seeing him set an example.
+[m] It was really quite elementary in principle: most Equestrians couldn't stand on two legs for very long.
+[m]  Marché was all about movements in synch with one's partner: left, right, back, forward, pirouette left, pirouette right, slide and reverse.
+ 
+[m] In the process, he had also learned more than he'd ever feared about common music.
+[m] No matter: the party prodigy would be ready.
+ 
+_sc_00002 (outskirts farm, early afternoon ,  day 34)
+ 
+[m] He raised an eyebrow at the dirt on his hooves.
+[m] Ugh.
+ 
+[m] Sweet Apple Acres.
+ 
+[m] Once again, the change of targets necessitated a quick change in clothes; fortunately he was a unicorn.
+[m] , he instead wore a coat, shirt and brown gloves. He had no intention, under any circumstances, of not at least looking passably dressed, regardless of where his new outlook on life took him. At the same time, it didn't take an RAAS valedictorian to realize that showing up at this farm in courtly clothes would hurt his cause.
+ 
+[m]  he passed under an iron gate with no doors: probably intending to both state that the land one was entering was welcoming, but quite strictly owned and managed. It reminded him a bit of the arches in the Palace Garden
+ 
+[m] Not until he encountered a red-coated fellow in the middle of the path.
+ 
+[bm] "Howdy." The farmpony spoke with that clear, rustic accent.
+[bm] "Can I help ya with anythin'?"
+ 
+[bb] "You may,"
+[m] replied, raising a gloved hoof in greeting.
+[bb] "I am Prince Blueblood. I have come to speak with Miss Applejack."
+ 
+[m] The red workhorse chewed on a stalk of straw.
+ 
+[bm] "Yer the Prince?" he finally asked, skeptically.
+ 
+[bb] "Quite," Blueblood huffed.
+[bb] "I suppose I'll be more persuasive next time."
+ 
+_sc_00003 (on the way to farm, early afternoon ,  day 35)
+ 
+[bm] "Howdy." The farmpony spoke with that clear, rustic accent.
+[bm] "Can I help ya with anythin'?"
+ 
+[bb] "You may,"
+[m] replied, raising a gloved hoof in greeting.
+[m] Next to him, one of the Royal guard pegasi stared forward with professional indifference.
+[bb] "I am Prince Blueblood. I have come to speak with Miss Applejack."
+ 
+[m] The red workhorse chewed on a stalk of straw.
+ 
+[bm] "Yer the Prince?" he finally asked, skeptically.
+ 
+[bb] "Again with this?"
+[bb] "I am a Prince of Equestria, yes. This is about the Gala tonight."
+ 
+[m] The apple farmer rolled the stalk between his teeth.
+ 
+[bm] "I'll get her," he finally said, and headed to the house.
+ 
+[m] (bb looks at aj, strong and rough around edges)
+ 
+[aj] "Well, howdy!"
+[m] tipped her hat just a bit, and too-readily shook his hoof.
+[aj] "Ain't this a surprise; what's a Canterlot noble like yerself doin' way out here?"
+ 
+[m] Her brother picked that moment to lean over and whisper something in her ear.
+ 
+[aj] "He is?"
+[m] she asked the big red pony, and blinked, giving Blueblood another more cautious look.
+[aj] "This ain't about the border, is it?"
+ 
+[bb] "The border?" the Prince asked, a little thrown by the question.
+[bb] "Why... would you assume that?"
+ 
+[aj] "Y'all are the head of the Royal surveyin' and map makin' office, ain't ya?"
+[m] Applejack pointedly inquired.
+[aj] "Don't tell me we're losing another couple'a acres ta Everfree!"
+ 
+[m] Blueblood's mind raced, and he did recall something about that.
+ 
+[bb] "Oh,"
+[m] he realized, a gloved hoof hiding his eyes.
+[bb] "That was... oh sweet Celestia, of course this would be that farm next to the forest..."
+ 
+[aj] "That's right. 'Bout five years ago, one'a yer colts came by and told us he was extendin' the border of the forest!"
+[m] Applejack stamped an indignant hoof on the wooden floor.
+[aj] "We lost a whole crop'a our best apple trees. That whole place is just a mess o' shrubs now, just one big sump, and we can't do nothin' about it."
+ 
+[m] This was not where he wanted the conversation to go today.
+ 
+[bb] "You have my apologies for that." He tried to be diplomatic.
+[bb] "But I don't make a habit of questioning our surveyors. As I recall, the border needed to be straightened out. Your property just happened to be in the way. You must have been compensated..."
+ 
+[aj] "Yer surveyor gave us a hundred bits per acre lost. My grandpappy paid twice that for it a hundred years ago! Apple Acres isn't the only family that's been given the shaft neither!"
+[m]  Applejack, now set on her tirade, didn't even seem inclined to let him inside the house.
+ 
+[bb] "I'm sure there's a very good reason..."
+ 
+[aj] "Didn't y'all actually read any o' tha complaints we been sendin' ya?"
+[m] The Element of Harmony advanced on his noble self, glaring at him eye to eye.
+[aj] "What brought ya out here, anyway?"
+ 
+[bb] "Um... the... Gala?"
+ 
+_sc_00004 (Maps office, early afternoon ,  day 36)
+ 
+[m] (bb surrounded by piles of books and old maps of ever free)
+ 
+[m] It didn't take too long to bring up the current Everfree Map, and ones from previous surveys.
+ 
+[m] There wasn't much any difference between the borders twenty years ago and ten years ago.
+[m] Then, five years ago, the Everfree began expanding again, this time into Ponyville. Nowhere else. Just the countryside around Ponyville.
+ 
+[m](random bureaucracy corruption discovered – maybe make it into like a cis show style relevation?)
+ 
+[bb] "This is just wonderful."
+[m] Blueblood sat back in his study, and sent a servant to retrieve one of his aides.
+ 
+[m] Right Angle was a studious unicorn,
+[m] The mousy orange mare quickly answered her employer's summons, arriving with the requested records in her saddlebags
+ 
+[m] Blueblood held up one of the letters Applejack had mentioned yesterday. It was an independent survey conducted by a private company, placing the value of the land at more than twice what Apple Acres had been compensated for.
+[m] The letter had been marked as CONSIDERED and then filed away to collect dust.
+[m] It wasn't the only one either.
+ 
+[m] He would have thrown a fit... if not for the fact that he'd be doing this exact same thing tomorrow.
+ 
+[m] And probably every following day, at this rate.
+ 
+[bb] "Right Angle,"
+[bb] "Take a note."
+ 
+ 
+_sc_00004 (on the way to farm house, early afternoon ,  day 37)
+ 
+ 
+[bm] "Howdy." Big Mac spoke with that clear, rustic accent.
+[bm] "Can I help ya with anythin'?"
+ 
+[bb] "You may," Blueblood replied, raising a gloved hoof in greeting.
+[m] Next to him, one of the Royal Guard pegasi stared forward with professional indifference.
+[bb] "My name is Prince Blueblood, of the Office of the Grand Veneur. I'd like to talk to the head of Sweet Apple Acres, if you please."
+ 
+[m] The red workhorse chewed on a stalk of straw.
+ 
+[bm] "Eyup." The farmpony was all business.
+[bm]  "This way."
+ 
+_sc_00005 (front farm house, early afternoon ,  day 37)
+ 
+ 
+[m] Blueblood found himself before -  farmhouse.
+[m] Once again, he waited patiently as Big Mac entered and called out for the younger mare who ran the business.
+ 
+[m]  Like before, her brother pulled her aside to whisper something.
+ 
+[aj] "Well, howdy,"
+[m] Applejack said and politely tipped her hat just a bit. She was a little more hesitant when it came to shaking his hoof.
+ 
+[aj] "Ain't this a surprise," she told him, her tone betraying growing suspicion.
+[aj] "What's a Canterlot bigwig like yerself doin' way out here? What's this about the borders now?"
+ 
+[bb] "After a recent internal audit, the Office of the Veneur has determined that one of our surveyors has conducted his duties improperly and in violation of our code of ethics. We –"
+[m] Blueblood motioned back to his guard.
+[bb] “– are making a quick trip to some of the families that have been victimized to... apologize. You have my personal word that we will compensate you properly for the lands lost."
+ 
+[aj] "Well!"
+[m] Applejack smiled, glancing back at her brother.
+[m] She dipped her hat again to conceal her grin, trying to act equally professional but still hospitable.
+[aj] "Ain't that something? Sure took you folks long enough!"
+ 
+[bb]"It only came to my attention recently," Blueblood admitted.
+[bb] "But it has prompted me to take a more careful look at the activities of my subordinates."
+ 
+[aj] "Shame we won't be gettin' the acres back."
+ 
+[bb] "I'm afraid that can't be arranged at the moment. Everfree has an allotted absolute acreage that must be maintained at all times in order to support the ecosystem."
+ 
+[aj] "Wouldn't matter too much anyway at this point," Applejack replied, and stepped aside.
+[aj] "I know ya must be right busy, if yer gonna be meetin' with other families 'round here, but it's the least I can do ta invite ya inside for a drink and a bite ta eat."
+ 
+[bb] "Thank you very much, Miss Applejack."
+ 
+_sc_00006 (inside farm house, early afternoon ,  day 37)
+ 
+[aj] "Uhm, is he...?"
+[m] Applejack noticed the Guard had turned around to stand next to the door instead of coming inside the farmhouse.
+ 
+[bb] "You mean Mercury? Don't take it as an insult," Blueblood assured her.
+[bb] "Duty and 'ever watchful' and all that."
+ 
+[aj] "Ah suppose."
+[m[ she quickly moved on, and led him to a simple sitting room.
+[m] Blueblood sat, paying only marginal attention to his surroundings.
+[m]  He had prepared for this. It was time to make good on things.
+ 
+[m] He did notice, however, another member of the Apple clan: a little filly,
+ 
+[apb] "Howdy," the little filly greeted him with a friendly smile.
+ 
+[bb] "Hello," he studiously replied, giving the tyke no further attention.
+[bb] "Just a coffee is fine, Miss Applejack," he raised his voice a bit to make sure she heard him.
+[bb] "I was also hoping to speak with you about the Gala this evening."
+ 
+[aj] "The Gala?"
+[aj] "Well, alright. Just gimme a minute here."
+ 
+[bb] "Very well, we –"
+[m] Blueblood paused, raising his front leg as he noticed the little gold and red filly poking around his side, rudely pushing aside his coat to reveal his cutie mark.
+[bb] “– what are you doing?"
+ 
+[apb] "That's a weird cutie mark."
+[m] She poked one of the golden spokes of his compass rose with her hoof, and then one of the silver points.
+[apb] "Is it a star, like Twilight's?"
+ 
+[bm] "Apple Bloom," Big Mac chided her from where he stood close by.
+ 
+[bb] "It is a compass rose," he informed her, only now realizing she was a blank flank herself.
+[bb]"Though in old times, it was also known as a Star of the Sea."
+ 
+[apb] "So it ain't like a real star?"
+[m] Apple Bloom backed away, letting his coat fall back over half of the mark on his flank.
+[apb] "What's it mean, then? How'd you get a star that ain't a star as yer cutie mark?"
+ 
+[bm] "Bloom,"
+[m] Mac reproved her again, this time with a faint frown on his seemingly unflappable face.
+[bm] "Ya shouldn't go badgerin' guests about their cutie marks. You know that."
+[m]He shifted the straw from one side of his mouth to the other, eyes falling on the Equestrian Prince.
+[bm] "Sorry 'bout that."
+ 
+[bb]"No,"
+[bb] "It's alright."
+[m] He brushed back the coat again so the filly could see the whole mark.
+[bb] "The compass represents the cardinal points: north, east, south, west, and the degrees in-between."
+ 
+[apb] "But what's it mean?"
+[apb] "How'd ya get it?"
+ 
+[bb] "It means my special talent is in finding directions,"
+[m] It was probably nothing more than an affinity for and skill with maps.
+[bb] "As for how I got it..."
+ 
+[m] The blank flank filly's eyes lit up at the promise of finding out a new way to get a cutie mark.
+ 
+[bb] "I got a little lost one day,"
+ 
+[m] Apple Bloom blinked a few times, expecting more.
+ 
+[bb] "That's it," he finished.
+ 
+[apb] "That can't be it!"
+[apb] "You got a cutie mark by gettin' lost?! Ah get lost all tha time and Ah never got a cutie mark from it!"
+ 
+[bb] "I did find something while I was lost, but it wouldn't make much sense to you, I'm afraid,"
+[m], just as Applejack entered with a cup of coffee.
+[m] It was black coffee, too, much stronger than he normally bothered with.
+ 
+[bb] "Ah. Next time, I'll remember to ask for milk and crème..."
+[m] He took the cup with a slight nod of thanks.
+[bb] "You do have milk and crème, don't you?"
+ 
+[aj] "We're on a farm, sugar cube." Applejack sat opposite with her own cup.
+[aj] "We've got more milk and crème than you can shake a hoof at."
+ 
+[aj] "Of course."
+[m]He took a sip, and got down to business with the Apples.
+[aj] "Miss Applejack. The other matter I wanted to discuss with you..."
+ 
+[aj] "About the Gala?"
+ 
+[bb] "Yes."
+ 
+[aj] "What about it?"
+ 
+"[bb] It has come to my attention that you intend to use the occasion to sell some of your wares," he began.
+ 
+[aj] "Who told ya that?" Applejack interrupted.
+ 
+[bb]"One of..." He searched for a name.
+[bb] "Your friends?"
+ 
+[aj] "Twilight?" Applejack helpfully provided the name of which of her comrades knew about her plan.
+[aj] "What's that girl doin' flappin' her gums about that?"
+ 
+[bb] "Well," Blueblood continued, undeterred.
+[bb] "About your wares. As one of the nobility myself, I thought I could pass on some ideas on how to better present your... many apple dishes."
+ 
+[aj] "Now just hold on a second!"
+[m] Applejack put down her cup, objecting to his invitation.
+[aj] "Sweet Apple Acres down-home apples are plenty good for even the most picky high society types! You sayin' Ah won't be able to sell our delicious, hoof made fritters or our signature dumplings or our fresh-as-you-come caramel apples at this here hoity-toity get together?"
+ 
+[m] His eyebrow twitched in irritation.
+ 
+[bb] "I'm sure your carnival fare goes off well here in Ponyville, but..."
+[m] He sighed, just then realizing what he had blurted out.
+[bb] "Oh. Nuts."
+ 
+_sc_00006 (inside farm house, early afternoon ,  day 38)
+ 
+ 
+[bb] "Ah. Extra milk and crème..."
+[m] He took the cup with a slight nod of thanks.
+[bb]  "Thank you."
+ 
+[aj] "We're on a farm, sugar cube,"
+[m] Applejack sat opposite with her own cup.
+[aj] "Enjoy."
+ 
+[bb] "Now, if I may."
+[m] He took a sip, and got down to business with the Apples.
+[bb] "Miss Applejack. The Gala."
+ 
+[aj] "What about it?"
+ 
+[bb] "It has come to my attention that you intend to use the occasion to sell some of your wares," he began.
+ 
+[aj] "Who told ya that?" Applejack interrupted.
+ 
+[bb] "One of your friends."
+ 
+[aj] "Twilight? What's that girl doin' flappin' her gums about that?"
+ 
+[bb] "Well,"
+[bb] "About your wares. I believe I have a good idea of what sorts of... apple-tastic treats... you wish to sell at the Gala. Fritters and candy-coated apples and pies and fried dumplings and such?"
+ 
+[aj] "Right on the money, there," Applejack confirmed.
+[aj] "We've got a load of Sweet Apple Acres' finest packed and ready for sale tonight. Gonna make a killing, who-nelly!"
+ 
+[bb] "How much, exactly, do you expect to make?"
+[m] he asked, setting down his cup and saucer.
+ 
+[m] The country mare nodded to herself as she crunched the numbers.
+[aj] "Well, sir, we got some repairs to do on the western barn, and of course Granny needs a new hip. She's upstairs sleepin' – poor gal. All in all, I was hopin' fer a hundred bits at least. Two hundred'd be real nice, but that's probably bein' optimistic."
+ 
+[m] Blueblood chuckled.
+ 
+[bb] "Well," he enthusiastically announced.
+[bb] "That's hardly much at all! I could give you that right now!"
+ 
+ 
+_sc_00006 (inside farm house, early afternoon ,  day 39)
+ 
+[aj] "...we've got a load of Sweet Apple Acres' finest packed and ready for sale tonight. Gonna make a killing, who-nelly!"
+ 
+[bb] "How much, exactly, do you expect to make?"
+[m] he asked, setting down his cup and saucer.
+ 
+[m] The country mare nodded to herself as she crunched the numbers.
+[aj] "Well, sir, we got some repairs to do on the western barn, and of course Granny needs a new hip. She's upstairs sleepin' – poor gal. All in all, I was hopin' fer a hundred bits at least. Two hundred'd be real nice, but that's probably bein' optimistic."
+ 
+[m] Blueblood took a calming, slow breath. In, and out.
+ 
+[bb] "Miss Applejack,"
+[bb] "While I don't doubt your skills as a salesmare or the quality of your apples here, I would be remiss if I didn't let you know that apples are considered out of vogue among Canterlot nobility."
+ 
+[aj] "Ah'll just have to bring them back into vogue then, Prince Blueblood." Applejack spoke with a little heat there.
+[aj] "Don't tell me yer one of those fancy types too good for a simple country apple?"
+ 
+[bb] "Ah," he stumbled in his response for a second.
+[bb] "No. I have no problem with apples myself. In fact, I rather enjoy them from time to time."
+ 
+[aj] "Really?"
+[m] The country mare gave him a shrewd look.
+[aj] "What's yer favorite type'a apple then?"
+ 
+[bb] "Calville Blanc d'hiver,"
+[bb] "We have them imported from Prance."
+ 
+[m] The family was silent...
+[m] (make a comedic thing were bm and apb lean from the side of screen with confused expression?)
+ 
+[aj] "Cheva-what now?" Apple Bloom wondered.
+ 
+[aj] "Well, shoot!"
+[m] appeared mollified by his response, tipping back her hat in a relaxed manner.
+ 
+[aj] "Ah guess it makes sense a high class pony would be used ta high class apples," she reasoned, thinking aloud.
+[aj] "Calville Blanc, huh? You know, we've got some reeeal sweet Golden Delicious apples a field over. Same kinda taste n' texture. Granny used'ta make open faced tarts with 'em, and flan, too."
+ 
+[bb] "Oh?" he inquired, genuinely curious now.
+[bb] "You don't make those anymore?"
+ 
+[aj] "They didn't sell too well in town,"
+[m] Applejack explained with a casual shrug.
+"[aj] So we just switched ta selling 'em as a snack. They also don't keep too well."
+ 
+[bb] "One must adapt to one's marketplace," he cautiously ventured, feeling a little give in the Element of Honesty.
+ 
+[bm] "Eyup." It was Big Mac who spoke up then.
+[bm]  "You suggestin' we make tarts for the Gala, then?"
+ 
+[bb] "As I may have said before, carn –"
+[bb] "Most apple dishes are simply not in style this year. If you wish to sell at the Gala, then you would be wise to either make something exotic or decadent... or better yet, both."
+ 
+[m] Brother and sister gave each other a quick look; a conversation in a glance.
+ 
+[aj] "Boy howdy, you do sound like Rarity," Applejack replied with a laugh.
+[aj] "No wonder she was so ga-ga about meeting Princess Celestia's nephew."
+ 
+[m] Shifting uncomfortably, Blueblood covered his anxiety about that situation by taking another sip of country coffee. The milk and crème helped.
+ 
+[bb] "I'll take that as a compliment,"
+ 
+[aj] "Still," Applejack drawled.
+[aj] "It's too late to replace our stock for the Gala. It takes time to make these things, an' Granny Smith's the only one who knows how to make tarts. Ah can't recall much at all how she makes apple shortcrusts."
+ 
+[aj] "Besides!" she exclaimed with a confident grin.
+[aj] "Once all those fancy ponies catch a whiff of our apple treats, their stomachs will do the rest!"
+ 
+[bb] "Really," Blueblood drolly commented.
+ 
+ 
+_sc_00007 (bedchamber , early morning ,  day 40)
+ 
+ 
+[m] (song, cut short)
+ 
+[bb] "APPLES."
+[m] A hoof smashed the radio, and Blueblood surged out of bed.
+ 
+ 
+_sc_00008 (diner hall, morning ,  day 40)
+ 
+ 
+[m] Kicking open the door, he stomped past the table of pony notables, heading straight for the kitchen while cackling madly.
+[m] Proper Place seemed on the verge of speaking up, but his mouth closed up as he realized Blueblood had zero intention of actually sitting at the table to share breakfast with the rest of the Royal household.
+[m] Luna in particular seemed to be watching the strange spectacle with wide, green eyes.
+ 
+[Cel] "Nephew," Celestia spoke up, and he paused at the dulcet, commanding tone.
+ 
+[bb] "Auntie?"
+[m] he asked, one hoof already opening the door to the pantry.
+ 
+[Cel] "Normally we eat at the table,"
+[m] she commented with a growing smile, and her spoon gestured towards her own bowl. Of oats. And...
+ 
+[bb] "Apples,"
+[m] he muttered, slipping into the kitchen.
+[bb] "APPLES!"
+ 
+ 
+_sc_00006 (inside farm house, early afternoon ,  day 41)
+ 
+ 
+[aj] "Ah guess it makes sense a high class pony would be used ta high class apples," Applejack reasoned, thinking aloud.
+[aj] " Calville Blanc, huh? You know, we've got some reeeal sweet Golden Delicious apples a field over. Same kinda taste n' texture. Granny used'ta make open faced tarts with em, and flan, too."
+ 
+[m] Blueblood nodded, knowingly.
+[bb] "You don't make those anymore?"
+ 
+[aj] "They didn't sell too well in town,"
+[m] she explained with a casual shrug.
+[aj] "So we just switched ta selling 'em as a snack. They also don't keep too well."
+ 
+[m] "One must adapt to one's marketplace," he agreed.
+ 
+[bm] "Eyup." Big Mac spoke slowly and thoughtfully.
+[bm] "You suggestin' we make tarts for the Gala, then?"
+ 
+[m] Blueblood's horn glowed, and he levitated out a small brown folder.
+[m] "Let me be truthful with you, Miss Applejack, if that's alright?"
+ 
+[aj] "Ain't no policy like honesty,"
+[aj] "What's that ya got there?"
+ 
+[bb] "You may not know this, but I am one of the primary financial sponsors of the Gala being held in my Auntie's honor,"
+[m] he said, and floated out a pair of fine etched papers.
+[bb] "This is the menu for the Gala. The right side here being the set piece, seven course dinner options for guests, and the left being the buffet and hors d'oeuvres."
+ 
+[m] Applejack took the proffered menu and scanned through, starting with the right side.
+ 
+[aj] "Well, I'll be. You should see some'a these fancy dishes here, Big Mac! Why, I ain't never even heard'a some of these..."
+[m] She paused, as her eyes found the left side of the carte du jour: the recently updated buffet.
+[m] Blueblood had to suppress an evil grin.
+ 
+[aj] "What the hay?"
+[m] Applejack held up the papers again, looking closer.
+[aj] "Apple fritters? Caramel apples? Three varieties of apple dumpling? Apple fondue!"
+ 
+[m] Slowly, she lowered the evil, evil bill of fare.
+ 
+[aj] "How much... did ya say it cost ta eat at the buffet?" she cautiously asked.
+ 
+[bb] "The buffet is free," he told her, straight faced.
+[bb] "For all guests."
+ 
+[aj] "Tarnation! They got everythin' here but apple pie and apple crepes! How am I supposed ta sell half my treats when any old pony can just walk into the next room and get the same thing for free?"
+[m] She started to simmer, trying to think up a plan.
+[aj] "You wouldn't happen to know where yer chefs are gettin' these apples, do ya?"
+ 
+[bb] "That's the awkward bit,"
+[m]  Blueblood admitted with a helpless shrug.
+[bb] "I suspect those apples are being purchased from local retailers and middle-ponies."
+ 
+[aj] "Local...?"
+[m] Applejack buried her face in her hooves.
+[aj] "They're re-sellin' our own apples!"
+ 
+[bb] "Quite," Blueblood remarked.
+ 
+[m] A little pony in the back of his head was cackling in manic glee.
+ 
+[aj] "Well what the heck am I supposed to do now?"
+[m] She handed the menu back, and he deftly returned it to its folder, and then his saddlebag.
+[aj] "This is a right mess, is what it is!"
+ 
+[bb] "I suspected as much."
+[m] The Equestrian Prince held up a hoof for her attention.
+[bb] "And on my way over, I think I may have stumbled on a way to salvage the situation. Unless... you want me to just close the table providing the apple hors d'oeuvres? You wouldn't have any competition if I did so."
+ 
+[aj] "You'd do that?"
+[m] Applejack asked, starting to consider it.
+[m] Then she saw Apple Bloom sitting next to him and listening closely.
+[m]  The honest cowgirl shook her head.
+[aj] "No. Nope! No thank ya. That's not how the Apple Family does business."
+ 
+[m] Blueblood smiled.
+[bb] "So I've heard. In that case, maybe... another approach to business?"
+ 
+[m] Eyes scanning the faces of her immediate family, Applejack held a hoof to her chin.
+ 
+[aj] "Like what?"
+ 
+[bb] "Simple,"
+[bb] "For nobles at an occasion like the Gala, the actual taste of the food is really secondary to its presentation. Ponies like myself are at the Gala to see others and to be seen. It is an elaborate display of influence and refinement. The finest dishes are the ones that give the impression of being... sinfully decadent."
+ 
+[apb] "What's that mean?"
+[m] - asked, wide eyed and innocent.
+ 
+[aj] "Decadent,"
+[m] explained for the benefit of her little sister, scowling as she did so.
+[aj]  "It means some foalish ponies like ta indulge themselves on silly things that they think are important. Like buying an expensive hat instead'a one that does its job."
+ 
+[bb] "I believe Miss Rarity would disagree," Blueblood argued.
+[bb] "But, yes. The important thing in this case is that the cuisine be both expensive and exclusive to the Gala."
+ 
+[aj] "So yer sayin' I need ta dress up mah apples?" The apple farmer huffed.
+[aj] "I guess Ah could make a cake or somethin –"
+ 
+[bb] "NO CAKES."
+ 
+[m] Blueblood brought a hoof to his mouth and coughed a few times.
+ 
+[bb] "Sorry," he tried again.
+[bb] "No cakes, please. I'm not... fond of cake."
+ 
+[m] Applejack raised an inquisitive eyebrow.
+[aj] "Ya don't say?"
+ 
+[bb] "Instead,"
+[bb] "since you already have quite a few pies, perhaps you could make them a bit like this?"
+[m] He retrieved another picture, this one of a piece of pie on a platter.
+[m]  The dish itself was intricate, fine china, and the slice of pie was drizzled with bright caramel in a familiar shape, with lines that ran wastefully over the porcelain saucer below. Curls of shaved apple aligned the edges, not for eating – just for show.
+ 
+[apb] "Ah get it!"
+[m] Apple Bloom peeked across the table to see the picture.
+[apb]  "It looks like Celestia's cutie mark!"
+ 
+[bb] "Could you make apple pie that looks like this?" he asked, disarmingly calm.
+ 
+[aj] "Ah... Ah suppose Ah could..."
+[m] Applejack didn't sound sure, but the reluctance was probably due to the appearance of the dish, rather than the difficulty of emulating it.
+ 
+[bb] "Good."
+[m] Blueblood let her keep the picture.
+[bb] "All you need to do is sell it at ten bits a slice."
+ 
+[m] The country mare's hat damn near flew off her head.
+ 
+[aj] "Ten bits a slice!?" she yelped, and quickly lowered her voice.
+[aj] "What kinda madpony would pay ten bits fer a slice o' pie? Ah was gonna sell a whole pie fer two bits!
+ 
+[bb] "Oh, they'll buy it,"
+[m]  Blueblood assured her, leaning forward to take one last polite sip of coffee. 
+[bb] "And they'll whisper about how much they spent on it, and you'll sell out in an hour."
+ 
+[m] Applejack, left with few other options, reached up to press her hat down on her head.
+ 
+[aj] "I guess... I guess Ah could..."
+ 
+ _sc_00007 (bedchamber, early morning ,  day 42)
+ 
+ 
+[m] (song)
+[m] (very quick scene of getting things set up in the castle?)
+ 
+ _sc_00008 (front of treebery, afternoon ,  day 42)
+  
+[spi] "Prince Blueblood?" 
+
+[m]. The little serpent stared at him with narrow, unnaturally green eyes. 
+
+[spi] "You're the one who sent that letter this morning," Spike stated, unhappy with that fact. 
+[spi] "Since when was my stomach on royal speed-dial?"
+ 
+[bb] "It wasn't that uncomfortable, was it?" 
+[bb] "I'm still getting used to that spell."
+ 
+[spi] "No worse than usual," 
+[spi]. "Come on in."
+ 
+ _sc_00008 (treebery, afternoon ,  day 42)
+
+[m] Blueblood entered the quaint little library-in-a-tree. 
+  
+[ts] "Spike!" 
+[m] called out from upstairs. 
+[ts] "Have you seen Tenser's Tome of Tricks, Transmutations and Transformations?"
+ 
+[m] Case two, east wall, shelf six, thirteenth from the left.
+[m] (maybe have bb mutter this under his breath?)
+ 
+[spi] "I'll get it!" 
+[m] already on his way, pausing only to adjust the sliding ladder that let him reach the higher shelves.
+[spi] "His 'highness' is here to see you."
+ 
+[ts] "I'll be right there. Just get that book!"
+ 
+[m] As always, Blueblood noted the little dragon eyeing him warily.
+ 
+[spi] "Hey," 
+[m] he said, ascending the ladder. 
+[spi] "Are you taking Twilight to the Gala? How'd you two even meet?"
+ 
+[bb] "I'm not here for Twilight specifically." 
+[bb]  "You could say I'm accompanying all six of the Elements of Harmony."
+ 
+"[spi] Because they're the Elements of Harmony?" 
+[m] Spike asked, retrieving Tenser's Tome.
+ 
+[bb] "I'm doing it for the good of the Gala," 
+[bb] "And, yes, because they are the Elements of Harmony."
+ 
+[spi] "You don't... you know?" 
+[m] Spike turned, book-in-hand, and jumped down. 
+[spi] "Like any of them? Do you?"
+ 
+[bb] "I hardly know them." 
+[m] He couldn't help but grin, as he added, 
+[bb] "Why do you ask?"
+ 
+[spi] "That's kinda a secret, pal. But..." 
+[m] Spike walked over, and whispered conspiratorially.
+[spi]  "Let's just say I have my eye on one of them."
+ 
+[bb] "Oh ho?"
+[bb] "Let me guess: the graceful young pegasus?"
+ 
+[spi[ "Who?" 
+[m] Spike asked and stuck out his tongue. 
+[spi] "No she isn't a pegasus!"
+ 
+[bb] "Ah! The lively earth pony filly, then?"
+ 
+[spi] "...Who? Which one...? No!"
+ 
+[bb] "Don't tell me?" He gasped in shock. 
+[bb] "Miss Sparkle? How scandalous!"
+ 
+[spi] "Gross, no!" 
+[m] Spike shook his whole body at the incestuous implication.
+ 
+[nn] "Well, I suppose it's best I not know," 
+[m] Blueblood finished with a chuckle. 
+[bb] "I am terrible with secrets."
+ 
+[m] Spike tucked the thick unicorn tome under his front leg and tried to compose himself. 
+[spi] "Anyway, my point was: I was kind of hoping we could all spend time together. Me and the girls, I mean. I wanted to show them some of our old hang out spots in Canterlot!"
+ 
+[bb] "Hm."
+[bb] "But doesn't Miss Dash wish to spend her time with the Wonderbolts?"
+ 
+[spi] "Yeah, I guess..."
+ 
+[bb] "I ran into Miss Pinkamena Pie earlier, and she claimed to be very excited about dancing."
+ 
+[spi] "Yeah."
+ 
+[bb] "This may also be a rumor, but isn't Miss Applejack planning to set up a food stall during the Gala?"
+ 
+[m] Spike frowned; a little petulantly, in Blueblood's opinion.
+ 
+[spi] "I get it." He cut off any further remarks. 
+[spi] "They all want to go do their own thing. Guess that leaves me to chat with the valet... or something."
+ 
+[bb] "You don't have anything you want to do at the Gala?" 
+[bb] "No one you want to see? No place you want to be?"
+ 
+[spi] "This probably sounds silly," 
+[spi]  "But I just want to be around my friends."
+ 
+[m] He set his jaw and sighed softly, seeing Twilight coming down from the upper rooms in the building. It was time.
+ 
+[m] "So do I sometimes," he whispered, just loud enough for Spike to hear.
+ 
+
+ _sc_00009 (the prepping space from the ep, later afternoon ,  day 42)
+ 
+ 
+[m] Rainbow Dash's squeal of excitement 
+She showed off the little ID-stub that she had freed from the letter taped to her cloud house this morning. 
+[m] This was a VIP pass to the private section of the party reserved for the Wonderbolts and their guests and family and fans!
+  
+[rd] "It says here I can spend the whole night with any two Wonderbolts I want!" 
+[rd] "Any two!"
+ 
+[m] She stared hard at the little tag, currently laminated flat and with a small pin, 
+
+[rd] "Any two! Any two Wonderbolts! And... they'll ALL be there!" 
+[m] She gasped, carefully pressing the ticket to her face. 
+[rd] "I – I can't decide! Do you think 'any two' means... even Thunderhead himself? The Team Captain of the Wonderbolts? I couldn't... I mean... maybe I could? What would I even say to him?
+ 
+[rd] "Wait!" She realized. 
+[rd] "Do you think there’ll be retired Wonderbolts there, too? Oh my gosh! What if Sky Shade is there? She's. Amazing. Amazing!"
+ 
+[m] The cyan pegasus bit her lip. 
+[rd] "But – wait – if I'm going to be spending the whole night with two Wonderbolts... maybe I should try and pick ones closer to my age? Hanging out with Thunderhead or Sky Shade or Raging Storm would be sooooo sweet, but... oh man, what am I going to do!?"
+ 
+[ra] "Prince Blueblood gave you that?"
+ 
+[m] Rarity was just finishing under one of the drying machines. 
+[m] Her hair glistened and shone as she started to curl it just right. A case with makeup and cosmetics was already open next to her.
+[m]  It was the look on her face that got Dash's attention however. She looked... a little confused, and clearly scrutinizing all that she had heard this morning was taking some sort of toll.
+  
+[rd] "I dunno," 
+[m] Rainbow admitted, going back to cooing at the VIP ticket. 
+[rd] "It was just there on the front door of my house when I woke up."
+ 
+[aj] "He did have a Royal Guard with him," 
+[aj] "Or maybe he knew that cloud-walkin' spell you used on us, Twilight?"
+ 
+[ra] "He found the time to drop off a note at your house in the sky," 
+[ra] "And he visited your farm..."
+ 
+[aj] "And a couple others, I reckon," 
+ 
+[ts] "And he visited you, too?" 
+[m] Rarity turned her eyes on Twilight, who was currently under a dryer, with just the lower half of her face visible. 
+[ts] "And... you, too, Pinkie?"
+ 
+[pp] "He stopped by for a while." 
+[m] The normally bubbly pony was busy reading a book and tapping her left hoof in time to some unheard music. 
+[m] The rest of her response was muted by her muttering something about 'step-step-step, spin?'
+ 
+[ra] "Everypony except Fluttershy," 
+[m] Rarity finished. It sounded like she wasn't sure how she felt about that. 
+[m] Her eyes wandered over to the bouquet of flowers she had brought to show off to her friends. 
+[m] The stalks were moistened in a tall glass, some of the paper wrapping removed to allow the flowers to drink and remain fresh a little longer. It was already filling the room with a faint but unmistakably sweet fragrance.
+ 
+[fs] "Oh no. Not me," 
+[m] meekly replied, her hooves soaking in mineral water. 
+[fs] "But that bouquet is just lovely. Glittering bellflowers and briarweave roses don't grow around here. Maybe... he got them from the Canterlot gardens?"
+ 
+[ra] "You'll forgive me for looking a gift in the mouth, darlings," 
+[m] Rarity said, winding her hooves together nervously. 
+[ra] "It all just seems too good to be true. I never imagined the stallion of my dreams would... well.. just walk right up to my door."
+ 
+[ra] "It just seems..."
+[m]  She bit her lower lip. 
+[ra] "Too convenient."
+ 
+[rd] "Ah, yer just over-thinking things!" 
+[m] Dash blurted out, giggling to herself at the VIP pass as she tried to find a good place to wear it, moving it from her sides to her front and then to under her wings.
+ 
+[ts] "When I spoke with him, he sounded very heavily invested in the outcome of the Gala tonight," 
+[m] Twilight added, ever the voice of reason and studied examination.
+[ts] "I think he thinks that we're guests of honor, due to the Elements of Harmony and what we did saving Princess Celestia and Princess Luna."
+ 
+[ra] "That makes sense," Rarity grudgingly admitted. 
+[ra] "You think he's doing this out of some sort of obligation?"
+ 
+[aj] "What's it matter so much anyhow?" 
+[m] Applejack asked, helping Fluttershy dry off her hooves. 
+[aj] "He seemed like a nice enough fella, and you know these noblepony types. They've always got some angle of their own. I'd bet he just wants ta make a good impression tonight."
+ 
+[ra] "It matters because –"
+ 
+[m] Rarity didn't finish her objection, she just closed her eyes and floated over a pair of lashes.
+ 
+[fs] "I think I understand,"
+[m]  Fluttershy said, grimacing as Applejack spat on her hoof before wiping it clean. 
+[fs] "You want him to like you for who you are."
+ 
+[ra] "He asked if he could escort me to the Gala." 
+[m] Rarity looked at her reflection in the mirror, full of worry when it should have been excitement. 
+[ra] "But something just doesn't feel... right. I'd expected it to be magical."
+ 
+[ts] "Maybe it will be," Twilight assured her friend. 
+[ts] "Just wait and see. Tonight is going to be..."
+ 
+[m] All six raised their voices: 
+[m6] "The best night ever!"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-meta chapter 1-
+ 
+[m] (radio) - gold and silver radio (personally I would go for full Art Deco)
+ 
+ 
+ 
+--dining hall
+ 
+[oc_pp] Proper Place - cultured voice - Royal Chamberlain, and officer of the Household. The elderly unicorn
+ 
++1 oc that tags along. Scribe? Assistant? – ‘Stylus’
+ 
+ 
+ 
+*servants
+ 
+Maids, buttlers
+ 
+ 
+2+ bat guards
+ 
+Proper Place was occupying a place of honor next to the empty chair where Blueblood traditionally sat.
+ 
+--bedchamber
+-add some small detail about map making stuff?
+ 
+Oc- 1 servant morning - - Sandy." –
+??-other mare, the unicorn filly with a dark brown coat and straw colored mane
+ 
+ 
+Oc-2 servant morning 2 - the light blue mare with the pinkish-red mane. - "Light Touch, -
+- "Light Touch." He pointed to the blue coated mare.
+ 
+ 
+--doctor office, physician
+[oc_wb] physician and apothecary, Willow Bark, Unicorns. She had a remarkable penchant for all forms of medicine, traditional, holistic, and magical. - the pale coated unicorn mare
+ 
+ 
+--doctor office, wiz
+[oc_doc2]
+ 
+ 
+--gala entrance
+[oc-ano] – announcer in the main room ?
+ 
+--gala vip
+*x paparazzi
+ 
+----
+ 
+Hall
+ 
+[oc-bat1] "Wrath,
+ 
+ 
+--Academy
+ 
+[oc-prof] the wrinkled old pony - Professor Whitemane - The wrinkled old codger had to be pushing a century or more. Somehow. Yet he was as sharp and spry as a stallion half his age. Magic could do that for a pony. Of course, rumor was that Old Whitemane dabbled in alchemy, and forbidden 'mercury flavored' cupcakes. His name had lately become quite ironic: the Professor was bald, save for the short white beard on his chin.
+- Whitemane was notoriously abrasive towards all his students. He treated his apprentices even worse, or so the college rumor mill claimed.
+ 
+--garden
+Mule - "Green Thumb!"
+ 
+--library
+[oc-lib]  - The Royal Librarian - Thistle." - charcoal gray mare
+-look up the British museum / old castle archives, it needs to be somewhat grand but at the same time not bombastic as it’s little bit abandoned for the day to day bases.
+ 
+--village
+The front townhall, with decent gathering of folks
+Front townhall, early morning with folks going around their business.
+-walk/flight between townhall and the
+ 
+ 
+_sc_00005 (gala garden (other angle), afternoon,  day 18)
+-this will need to be made out of multiple shots, of dark green fire, almost like living tentacles to cover buildings and general destruction.
+-the shield effect will need some workshopping to figure out, maybe floor runes in FMA style?
+ 
+Observatory
+-needs to show the old wear-and-tear repairs, covered up with new fixes then covered up into art studio.
+-it will need a lot of investigator notes and red stings to show the length of planning that will be involved with the thousand years of planning
+ 
+--chapter 3
+ 
+-maybe instead of inky make up some name for OC to not crash with the cannon?
+-maybe bring back the Maud and stick guy?
+ 
+--maps office
+ 
+[oc-serv] - Right Angle - studious unicorn, - The mousy orange mare -, arriving with the requested records in her saddlebags
+ 
+ 
+ 
